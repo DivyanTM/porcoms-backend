@@ -1,6 +1,7 @@
 package com.divyan.porcoms_backend.Services;
 
 import com.divyan.porcoms_backend.Models.User;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
